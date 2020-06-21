@@ -14,17 +14,19 @@ Following that, we try to visualise what the output of the convolutional layer l
 **Activations for a rightly classified sample - The digit in the image is 9**
 
 Layer 1
+
 ![Layer 1](https://github.com/muhammedsalihk/Visualising-a-CNN-using-Pytorch/blob/master/Images/9_right_layer1.png)
 
-
 Layer 2
+
 ![Layer 2](https://github.com/muhammedsalihk/Visualising-a-CNN-using-Pytorch/blob/master/Images/9_right_layer2.png)
 
 **Activations for a misclassified sample - The digit in the image is 6, but was predicted as 0**
 
 Layer 1
+
 ![Layer 1](https://github.com/muhammedsalihk/Visualising-a-CNN-using-Pytorch/blob/master/Images/6_wrong_layer1.png)
 
-
 Layer 2
+
 ![Layer 2](https://github.com/muhammedsalihk/Visualising-a-CNN-using-Pytorch/blob/master/Images/6_wrong_layer2.png)
