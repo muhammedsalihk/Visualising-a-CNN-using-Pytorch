@@ -15,7 +15,7 @@ Following that, we try to visualise what the output of the convolutional layer l
 
 Layer 1
 
-![Layer 1](https://github.com/muhammedsalihk/Visualising-a-CNN-using-Pytorch/blob/master/Images/9_right_layer1.png&s=100)
+![Layer 1](https://github.com/muhammedsalihk/Visualising-a-CNN-using-Pytorch/blob/master/Images/9_right_layer1.png)
 
 Layer 2
 
